@@ -17,7 +17,7 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 16,
-  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true
 }
